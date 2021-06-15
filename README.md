@@ -2,4 +2,4 @@
 - 👀 I’m interested in shell scripting
 - 🌱 I’m currently learning shell scripting and bash
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me via email sneccolol2k@protonmail.com
+- 📫 Contact me via email: sneccolol2k@protonmail.com
