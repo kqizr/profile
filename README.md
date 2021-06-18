@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sneccolol2k or just snecco
+- 👋 Hi, I’m @snechovsky or just snecco
 - 👀 I’m interested in shell scripting
 - 🌱 I’m currently learning shell scripting and bash
 - 💞️ I’m looking to collaborate on nothing at the moment
